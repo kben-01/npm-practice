@@ -1,0 +1,16 @@
+{
+  "name": "pkg-practice",
+  "version": "1.0.0",
+  "description": "displays message in console",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "author": "kobe benson",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "colors": "^1.4.0",
+    "nodemon": "^2.0.6"
+  }
+}
